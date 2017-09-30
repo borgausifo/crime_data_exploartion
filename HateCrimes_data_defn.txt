@@ -1,0 +1,19 @@
+Hate Crimes Dataset
+from U.S. Department of Justice and FBI
+"Table 13"
+
+###
+
+State               Str   State which reported the data
+Agency type         Str   Type of agency reporting the data
+Religion            Int   Count of hate crimes motivated by religion
+Sexual orientation  Int   Count of hate crimes motivated by sexual orientation
+Ethnicity           Int   Count of hate crimes motivated by ethnicity
+Disability          Int   Count of hate crimes motivated by disibility
+Gender              Int   Count of hate crimes motivated by gender
+Gender identity     Int   Count of hate crimes motivated by gender identity
+1Q                  Int   Count of hate crimes reported in Q1
+2Q                  Int   Count of hate crimes repotred in Q2
+3Q                  Int   Count of hate crimes reported in Q3
+4Q                  Int   Count of hate crimes reported in Q4
+Population          Int   Population of area for which reporting agency is responsible 
